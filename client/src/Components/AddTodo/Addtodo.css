@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.continer{
+    border: 2px solid red;
+    height: 320px;
+    width: 300px;
+    position: relative;
+    margin: 150px auto;
+    border-radius: 20px;
+     
+}
+.form-group{
+    margin: 40px 20px;
+}
+.btn{
+    margin: 10px 80px;
+    /* padding: 0 20px; */
+
+    
+}
+label{
+    font-size: 20px;
+}
